@@ -1,0 +1,35 @@
+.actionbuttons{
+    position: fixed;
+    bottom: 10vh;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    
+}
+
+.actionbuttons .MuiSvgIcon-root{
+    background-color: white;
+    box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.6);
+    border-radius: 900px;
+    padding: 2vw;
+}
+
+.actionbuttons__repat{
+    color: rgb(95, 108, 49) !important
+}
+
+.actionbuttons__left{
+    color: red !important
+}
+
+.actionbuttons__star{
+    color: rgb(124, 111, 198) !important
+}
+
+.actionbuttons__right{
+    color: rgb(41, 136, 55) !important
+}
+
+.actionbuttons__lightning{
+    color: rgb(62, 33, 104) !important
+}
